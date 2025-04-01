@@ -46,7 +46,17 @@ section {
     width: 45rem;
     height: auto;
 }
-
+.img-acima{
+background-image: url('img/titulo-velho-oeste.webp');
+/* Substitua pelo caminho da sua imagem */
+background-size: cover;
+background-position: right;
+border-radius: 80px;
+width: 50%;
+height: 606px;
+padding: 40px;
+margin: 0 auto;
+}
 
 .esquerda-conteudo {
     display: flex;
